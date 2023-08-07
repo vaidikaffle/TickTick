@@ -14,6 +14,10 @@ public class JavaArrayList {
 		a.add("Java");
 		a.add("Training");
 		System.out.println(a.get(2));
+		System.out.println(a.get(1));
+		System.out.println(a.get(3));
+		System.out.println(a.get(4));
+		
 	}
 
 }
